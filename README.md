@@ -1,7 +1,6 @@
 # RNRefresh
-# 自定义MJRefresh控件
   
-  随便写一句话
+  Show you how to customize the [MJRefresh](https://github.com/CoderMJLee/MJRefresh) component.
   
 # License
-MIT License
+[MIT License](https://github.com/ryanecat/RNRefresh/blob/master/LICENSE)
